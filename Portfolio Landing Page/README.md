@@ -13,6 +13,8 @@
 This Webpage is a portfolio I designed to give information about myself, and my interests.
 it also has a few links to different practice folders I have been working on throughout my time so far at Epicodus, aswell as a link to my Instagram (mostly for fun, and to get a better idea of my intrests).
 
+Link to my gh-pages: https://github.com/PadraigOsborne/index.html.git
+
 ## setup and installation
 
 1. Clone repository to desktop
